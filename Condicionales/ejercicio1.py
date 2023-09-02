@@ -12,3 +12,8 @@ elif(sexo==2 and edad<18):
 elif(sexo==1):
     print("Su nombre es: " , nombre)
     print("Su edad es: " , edad)
+elif(sexo==2):
+    print("xd")
+
+elif(sexo==2):
+    print("xd")
